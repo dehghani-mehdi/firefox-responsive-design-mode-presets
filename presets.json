@@ -1,0 +1,86 @@
+[{
+	"key": "iPhone",
+	"name": "iPhone 4 and 4S",
+	"width": 320,
+	"height": 480
+}, {
+	"key": "iPhone",
+	"name": "iPhone 5 and 5S",
+	"width": 320,
+	"height": 568
+}, {
+	"key": "iPhone",
+	"name": "iPhone 6",
+	"width": 375,
+	"height": 667
+}, {
+	"key": "iPhone",
+	"name": "iPhone 6+",
+	"width": 414,
+	"height": 736
+}, {
+	"key": "Galaxy and HTC",
+	"name": "Galaxy S3 and S4 and HTC",
+	"width": 320,
+	"height": 640
+}, {
+	"key": "Galaxy and HTC",
+	"name": "Galaxy S5",
+	"width": 360,
+	"height": 640
+}, {
+	"key": "iPad",
+	"name": "iPad",
+	"width": 768,
+	"height": 1024
+}, {
+	"key": "Galaxy",
+	"name": "Galaxy Tab and Kindle Fire",
+	"width": 800,
+	"height": 1280
+}, {
+	"key": "Nexus",
+	"name": "Asus Nexus 7",
+	"width": 601,
+	"height": 906
+}, {
+	"key": "Laptop",
+	"name": "Laptop",
+	"width": 1200,
+	"height": 1600
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 800,
+	"height": 600
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1024,
+	"height": 768
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1152,
+	"height": 864
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1360,
+	"height": 768
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1366,
+	"height": 768
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1440,
+	"height": 900
+}, {
+	"key": "PC",
+	"name": "PC",
+	"width": 1600,
+	"height": 1200
+}]
