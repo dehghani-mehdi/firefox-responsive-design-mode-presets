@@ -8,3 +8,6 @@ Ready to go Firefox responsive design mode presets in JSON format.
 
 
 The list provided using [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) and some other articles.
+
+## Update
+This solution doesn't work on Firefox in 51 & above! for now you could change the pref "devtools.devices.url" to point at your own JSON file.
